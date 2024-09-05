@@ -1,0 +1,78 @@
+body {
+    background-color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    font-size: 1.5vw;
+}
+
+#logo {
+    margin: 0px;
+    padding: 10px;
+    font-family: "fredoka one", sans-serif;
+    width: 20%;
+    border-radius: 30%;
+}
+
+ul {
+    margin: 0px;
+}
+
+body > header {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 15vh;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#nav-ul {
+    display: flex;
+}
+
+#nav-ul > li {
+    padding: 8px;
+    margin: 10px;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbutton {
+    color: white;
+    text-decoration: none;
+    pad: 12px;
+    border: 2px solid greenyellow;
+}
+
+body > main article {
+    width: 70%;
+    margin: auto;
+}
+
+#main-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+#main-content > div {
+    width: 70%;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+body > footer {
+    background-color: olivedrab;
+}
+
+img {
+    border-radius: 40%;
+}

@@ -61,9 +61,7 @@ main > div > aside {
 }
 
 body > main article {
-    width: 3vh;
-    padding: 10px;
-    border: 20px;
+    margin: 0%;
 }
 
 #main-content {
@@ -72,7 +70,8 @@ body > main article {
 }
 
 #main-content > div {
-    width: 3vh;
+    margin: 0%;
+    padding: 30px;
 }
 
 h2 {
@@ -84,7 +83,7 @@ form {
 }
 
 body > footer {
-    background-color: olivedrab;
+    background-color: rgb(72, 5, 94);
 }
 
 img {

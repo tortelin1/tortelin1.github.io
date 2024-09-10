@@ -57,6 +57,7 @@ main > div > aside {
     color: white;
     background-color: black;
     padding: 1vh;
+    width: 40%;
     margin: 0px;
 }
 
